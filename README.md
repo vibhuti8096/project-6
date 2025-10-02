@@ -21,10 +21,12 @@ A fully responsive cart system built using **HTML**, **CSS**, **JavaScript**, an
 
 ## 📸 Preview
 
-<img width="1884" height="845" alt="Screenshot 2025-10-02 155800" src="https://github.com/user-attachments/assets/375f7533-2b5d-464c-b878-f700851f7f67" />
+  <img width="1918" height="826" alt="image" src="https://github.com/user-attachments/assets/b1ca48ac-a7b1-47ea-858f-141b07f38820" />
+
 
 Card-products:
-<img width="1898" height="867" alt="image" src="https://github.com/user-attachments/assets/5d1ba436-22c9-4a6c-95b0-f91d02089e8a" />
+<img width="1762" height="841" alt="image" src="https://github.com/user-attachments/assets/2b617d2b-8b10-40bd-bbfb-df7c76665c4b" />
+
 
 
 
