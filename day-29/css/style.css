@@ -1,0 +1,21 @@
+.bg{
+    background-color: black;
+    color: white;
+    
+}
+.offerblock{
+    border: 2px solid rgb(181, 179, 179);
+    border-radius: 6px;
+    font-size: 13px;
+    padding: 5px;
+    background-color: rgb(250, 234, 234);
+}
+
+.totalbox{
+    background-color: bisque;
+}
+
+.box {
+  width: 500px; /* Or any defined width */
+  margin: 0 auto; /* Centers horizontally */
+}
