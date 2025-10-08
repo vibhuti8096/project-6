@@ -24,7 +24,12 @@ A fully responsive cart system built using **HTML**, **CSS**, **JavaScript**, an
  <img width="1902" height="860" alt="image" src="https://github.com/user-attachments/assets/abc1fbd3-a63b-4cd9-b154-bf70044d35a9" />
 
 Card-products:
+Without Disscount: 
 <img width="1206" height="807" alt="image" src="https://github.com/user-attachments/assets/05923c3e-5d13-4a43-bc8e-33fcc4a2338f" />
+
+With Disscount:
+<img width="1148" height="777" alt="image" src="https://github.com/user-attachments/assets/06a2c75a-ad5c-461c-a012-ad5a69da06a0" />
+
 
 
 
